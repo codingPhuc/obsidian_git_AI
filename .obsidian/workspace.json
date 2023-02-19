@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "67475f7b302af9d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e61a4298e3f8ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc9ea828e002e7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GBFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aa4b77aa3b268cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb2b11a72f54b64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ed57267196817fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e27b27b36e2b6d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7879c5c4d847339b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fffff3542c5cc39",
+    "type": "split",
+    "children": [
+      {
+        "id": "14afe7aedb804a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9cc8e5ac9764b8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GBFS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fae217079a0c98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GBFS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75280758ee721346",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70874040632e829a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GBFS.md"
+              }
+            }
+          },
+          {
+            "id": "5278ccae8bb1c7fc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1e27b27b36e2b6d1",
+  "lastOpenFiles": [
+    "ROAD MAP.md",
+    "local bem sreach.md",
+    "admissible neuristics.md",
+    "GBFS.md",
+    "hige-climbing.md",
+    "and or sreach tree.md",
+    "genetic algorithms.md",
+    "SIMULATED Annealing search.md",
+    "INFORMED SEARCH(CONT).md",
+    "what is AI.md"
+  ]
+}
