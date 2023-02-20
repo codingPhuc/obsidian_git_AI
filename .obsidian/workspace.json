@@ -11,11 +11,9 @@
             "id": "24b5e52832db50ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md"
+                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf"
               }
             }
           },
@@ -156,15 +154,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ed57267196817fe",
+  "active": "24b5e52832db50ed",
   "lastOpenFiles": [
+    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
     "2023-02-20.md",
     "LAB 3 _LECTURE 5_6/backtracking.md",
     "pdf/lesson 05 - Constraint Satisfaction.pdf",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "pdf/lesson 06 - Adversarial Search.pdf",
-    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
     "undone/2023-02-20.md",
     "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf",
     "pdf/CS246_LinAlg_review.pdf"
