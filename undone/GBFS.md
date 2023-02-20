@@ -8,21 +8,11 @@ GBFS is often used in pathfinding and navigation problems, where the goal is to 
 Overall, GBFS is a useful search algorithm for problems where finding the optimal solution is not necessary, and a good approximation is sufficient.
 
 ## how does it work 
-heuristic cost : 
-
-
+heuristic cost : this is
 
 
 ```mermaid  
-graph LR
-A --7-->  C_4 
-A --2-->  B_8
-B_8 --2--> D_5
-C_4 --2--> D_5
-C_4 --4--> E_0
-D_5 --5--> E_0
-
-
+d
 ```
 A->E = 11 
 B-> E = 8 

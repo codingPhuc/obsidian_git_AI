@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35e61a4298e3f8ee",
+        "id": "ad514193336d338c",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9ea828e002e7bb",
+            "id": "24b5e52832db50ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GBFS.md",
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sumarize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3fffff3542c5cc39",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GBFS.md",
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GBFS.md",
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GBFS.md"
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md"
               }
             }
           },
@@ -143,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e27b27b36e2b6d1",
+  "active": "6ed57267196817fe",
   "lastOpenFiles": [
-    "ROAD MAP.md",
-    "local bem sreach.md",
-    "admissible neuristics.md",
-    "GBFS.md",
-    "hige-climbing.md",
-    "and or sreach tree.md",
-    "genetic algorithms.md",
-    "SIMULATED Annealing search.md",
-    "INFORMED SEARCH(CONT).md",
-    "what is AI.md"
+    "2023-02-20.md",
+    "LAB 3 _LECTURE 5_6/backtracking.md",
+    "pdf/lesson 05 - Constraint Satisfaction.pdf",
+    "LAB 3 _LECTURE 5_6/constarint propagation.md",
+    "LAB 3 _LECTURE 5_6/Forward checking.md",
+    "pdf/lesson 06 - Adversarial Search.pdf",
+    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+    "undone/2023-02-20.md",
+    "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf",
+    "pdf/CS246_LinAlg_review.pdf"
   ]
 }
