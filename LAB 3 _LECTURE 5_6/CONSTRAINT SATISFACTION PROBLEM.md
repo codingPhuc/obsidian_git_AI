@@ -1,6 +1,11 @@
 #sumarize  
 constraint satisfaction problem is use when you are making a bunch of decision in parallee and you can model those decisionwith varible 
 
+
+#varieties_Cps 
+## DISCRETE VARIABLES 
+### FINITE DOMAINS :
+- N VARIBLES , D
 #execution
 let say that that we set of varible X1 , X2 , X3 ,X4 
 each varible have a set of domain like Xi have domain of {1,2,3,4,5}
