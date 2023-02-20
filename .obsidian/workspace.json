@@ -11,9 +11,11 @@
             "id": "24b5e52832db50ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf"
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf"
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md"
               }
             }
           },
@@ -156,15 +158,15 @@
   },
   "active": "24b5e52832db50ed",
   "lastOpenFiles": [
+    "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+    "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
     "2023-02-20.md",
     "LAB 3 _LECTURE 5_6/backtracking.md",
     "pdf/lesson 05 - Constraint Satisfaction.pdf",
-    "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "pdf/lesson 06 - Adversarial Search.pdf",
     "undone/2023-02-20.md",
-    "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf",
-    "pdf/CS246_LinAlg_review.pdf"
+    "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf"
   ]
 }
