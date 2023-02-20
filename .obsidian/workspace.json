@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md"
+                "file": "LAB 3 _LECTURE 5_6/CSP search  tree size.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "24b5e52832db50ed",
   "lastOpenFiles": [
+    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
     "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
-    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM.md",
     "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
     "2023-02-20.md",
     "LAB 3 _LECTURE 5_6/backtracking.md",
