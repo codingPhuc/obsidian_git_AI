@@ -8,7 +8,7 @@ constraint satisfaction problem is use when you are making a bunch of decision i
 -  THE MEANING OF A FINITE DOMAIN IN THE CSP , THE FINITE DOMAIN IS A LIMITED DOMAIN IN WHICH EACH VARIBLE IN THE CSP CAN BE ASSGIN A FINITE NUMBER OF VALUE 
 - an examples of a finite domain is a sudo
 INFINITE DOMAINS IN THE CSP : 
-- infinite doma
+- infinite domains is like 
 
 #execution
 let say that that we set of varible X1 , X2 , X3 ,X4 
