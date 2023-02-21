@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/min -conflict.md",
+                "file": "LAB 3 _LECTURE 5_6/backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/min -conflict.md",
+                "file": "LAB 3 _LECTURE 5_6/backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/min -conflict.md",
+                "file": "LAB 3 _LECTURE 5_6/backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/min -conflict.md"
+                "file": "LAB 3 _LECTURE 5_6/backtracking.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "24b5e52832db50ed",
   "lastOpenFiles": [
+    "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
+    "LAB 3 _LECTURE 5_6/min -conflict.md",
     "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
     "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
-    "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
     "2023-02-20.md",
     "LAB 3 _LECTURE 5_6/backtracking.md",
     "pdf/lesson 05 - Constraint Satisfaction.pdf",
-    "pdf/lesson 06 - Adversarial Search.pdf",
-    "undone/2023-02-20.md"
+    "pdf/lesson 06 - Adversarial Search.pdf"
   ]
 }
