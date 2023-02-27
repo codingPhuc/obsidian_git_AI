@@ -8,4 +8,4 @@ the environement is  unpredictable in game
 	- the utility values at the end are always equal and opposite 
 - Complexity : game are to hard to be solved 
 - Time limits : make some decision even when calculating the optimal decision is infeasible 
-- Efficiency : penalize inefficiency severely 
+- Efficiency : penalize inefficiency severely
