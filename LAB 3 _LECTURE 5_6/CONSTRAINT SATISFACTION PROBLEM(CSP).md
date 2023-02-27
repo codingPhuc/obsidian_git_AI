@@ -20,6 +20,17 @@ this use the algorithm : [[backtracking]] or [[Forward checking]]
 
 ## drawing CPS 
 CPS   
-Vars : 
+Vars : {a1,a2,a3,a4,a5 , a6 }
+domain : Dj = {1,2,3}
+constraints 
+a1!= a2  , a2!= a3 , a3!= a4 , a4!= a5 , a5!= a6 , a6 !=a1 , a2!= a6  , a3 != a6  
+Most constraining car desc : 
+a6 , a2, a3,a1 , a4, a5 
+value order : 1,2,3 
+forward checking : 
+| a6  | a2  | a3  | a1  | a4  | a5  |
+| --- | --- | --- | --- | --- | --- |
+| 123 | 123 | 123 | 123 | 123 | 123 |
+| 1    |     |     |     |     |     |
 
 
