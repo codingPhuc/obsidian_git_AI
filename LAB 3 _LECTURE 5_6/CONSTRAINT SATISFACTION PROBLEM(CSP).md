@@ -19,14 +19,7 @@ the solution to sloving  is the assgin a value to each varible so that the const
 this use the algorithm : [[backtracking]] or [[Forward checking]] 
 
 ## drawing CPS 
-VARS :{a1,a2 , a3 ,a4 , a5 ,a6}
-domain :Di = {1,2,3}
-constraints : 
-a1!= a2, a2 ! =a3 , a3 !=a4 , a4!= a5  , a5!= a6 , a6 != a1 , a2!= a6 , a3 !=a6 
-CPS type : binary CPS  
-draw a constraint graph  
-Forward checking 
-- var order : most constraning 
-- value order : ascending 
-Most constraning var desc : 
+CPS   
+Vars : 
+
 
