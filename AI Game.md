@@ -15,4 +15,12 @@ Action(s) : successor function : A list of ( move , state) pair specifying legal
 result (s,a) - Transition model : result of move a on state s 
 Terminal -Test( s)  : is the game finished ? 
    - states where the gmae has ended are called terminal states 
-Utility(s, p) - Utility funciont : a numbercal vlaue of a
+Utility(s, p) - Utility funciont : a numbercal vlaue of 
+## optimal decision in games 
+- Normal search problem 
+	- optimal solution is a sequnece of action leading to a goal state 
+ - gAMES 
+	 - A search path that guarantee win for a player 
+	 - The optimal strategy can be determined from the minimal vlaue of each node 
+ minimax(x) = 
+ 
