@@ -31,6 +31,19 @@ forward checking :
 | a6  | a2  | a3  | a1  | a4  | a5  |
 | --- | --- | --- | --- | --- | --- |
 | 123 | 123 | 123 | 123 | 123 | 123 |
-| 1    |     |     |     |     |     |
+| 1   | 23  | 23  | 23  | 123 | 23  |
+| 1   | 2   | 3   | 3   | 123 | 23  |
+| 1   | 2   | 3   | 3   | 12  | 23  |
+| 1   | 2   | 3   | 3   | 12  | 23  |
+| 1   | 2   | 3   | 3   | 1   | 23  |
+| 1   | 2   | 3   | 3   | 1   | 2   |
 
+| a1 a2 a3 |                                           |
+| -------- | ----------------------------------------- |
+| 0  2 4   | one correct number at correct place (C1)  |
+| 5 2 3    | one correct number at correct place (C2 ) |
+| 6 3 4    | two correct numbers at wrong places (C3)  |
+| 2 7 5    | no correct numbers (C4)                   |
+- formulate the CSP 
+- Slo
 
