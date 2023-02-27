@@ -55,3 +55,4 @@ forward checking :
 (C1) -> a1=0
 (C3) -> a2 = 6 
 
+
