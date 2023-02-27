@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d06e35b164d2212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
+                "file": "AI Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
+                "file": "AI Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md"
+                "file": "AI Game.md"
               }
             }
           },
@@ -167,10 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd8dd9f6153f9be8",
+  "active": "0d06e35b164d2212",
   "lastOpenFiles": [
-    "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
+    "AI Game.md",
+    "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",
     "undone/GBFS.md",
