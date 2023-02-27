@@ -45,5 +45,10 @@ forward checking :
 | 6 3 4    | two correct numbers at wrong places (C3)  |
 | 2 7 5    | no correct numbers (C4)                   |
 - formulate the CSP 
-- Slo
+- Slove the CSP using constraint propagation 
 
+(C4) a1 , a2 ,a3 $\notin$ {2,7,5}
+| a1            | a2            | a3            |
+| ------------- | ------------- | ------------- |
+| 0,1,3,4,6,8,9 | 0,1,3,4,6,8,9 | 0,1,3,4,6,8,9 |
+(C2) 
