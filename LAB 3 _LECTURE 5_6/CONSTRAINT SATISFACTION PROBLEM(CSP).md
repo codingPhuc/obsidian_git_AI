@@ -18,5 +18,6 @@ each domain have a set of contraints
 the solution to sloving  is the assgin a value to each varible so that the constraints are not broken 
 this use the algorithm : [[backtracking]] or [[Forward checking]] 
 
-
+## drawing CPS 
+CSP 
 

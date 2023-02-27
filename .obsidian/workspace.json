@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undone/GBFS.md",
-                "mode": "preview",
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undone/GBFS.md",
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undone/GBFS.md",
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undone/GBFS.md"
+                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md"
               }
             }
           },
@@ -169,12 +169,13 @@
   },
   "active": "cd8dd9f6153f9be8",
   "lastOpenFiles": [
-    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
-    "pdf/lesson 02 - Solving problems by searching.pdf",
-    "LAB 3 _LECTURE 5_6/backtracking.md",
+    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",
+    "undone/GBFS.md",
+    "pdf/lesson 02 - Solving problems by searching.pdf",
+    "LAB 3 _LECTURE 5_6/backtracking.md",
     "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
     "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
     "2023-02-20.md",
