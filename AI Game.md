@@ -11,4 +11,8 @@ the environement is  unpredictable in game
 - Efficiency : penalize inefficiency severely
 So - initial state : How the gamev is set up at the start 
 player (s) : which plater has the move in a state  
-Action(s) : 
+Action(s) : successor function : A list of ( move , state) pair specifying legal move 
+result (s,a) - Transition model : result of move a on state s 
+Terminal -Test( s)  : is the game finished ? 
+   - states where the gmae has ended are called terminal states 
+Utility(s, p) - Utility funciont : a numbercal vlaue of a
