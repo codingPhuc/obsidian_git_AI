@@ -9,3 +9,6 @@ the environement is  unpredictable in game
 - Complexity : game are to hard to be solved 
 - Time limits : make some decision even when calculating the optimal decision is infeasible 
 - Efficiency : penalize inefficiency severely
+So - initial state : How the gamev is set up at the start 
+player (s) : which plater has the move in a state  
+Action(s) : 
