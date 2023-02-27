@@ -4,4 +4,8 @@ the environement is  unpredictable in game
 - ADv search 
 	- civers competitive environments in which the agents  goals are inconflict 
 - zero sum game ( perfect)
-	- deterministisc , fully observable environment  , t
+	- deterministisc , fully observable environment , turn-taking , two player 
+	- the utility values at the end are always equal and opposite 
+- Complexity : game are to hard to be solved 
+- Time limits : make some decision even when calculating the optimal decision is infeasible 
+- Efficiency : penalize inefficiency severely 
