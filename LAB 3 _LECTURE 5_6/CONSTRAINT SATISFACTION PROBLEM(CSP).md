@@ -19,5 +19,7 @@ the solution to sloving  is the assgin a value to each varible so that the const
 this use the algorithm : [[backtracking]] or [[Forward checking]] 
 
 ## drawing CPS 
-CSP 
-
+VARS :{a1,a2 , a3 ,a4 , a5 ,a6}
+domain :Di = {1,2,3}
+constraints : 
+a1!= a2, a2 ! =a3 , a3 !=a4 , a4=1
