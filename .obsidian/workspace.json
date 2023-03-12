@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undone/what is AI.md",
-                "mode": "preview",
+                "file": "undone/what is it.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undone/what is AI.md",
+                "file": "undone/what is it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undone/what is AI.md",
+                "file": "undone/what is it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undone/what is AI.md"
+                "file": "undone/what is it.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   "active": "24b5e52832db50ed",
   "lastOpenFiles": [
     "undone/SIMULATED Annealing search.md",
-    "undone/what is AI.md",
+    "undone/what is it.md",
     "pdf/lesson 03-04 - Informed search.pdf",
     "AI Game.md",
     "pdf/lesson 06 - Adversarial Search.pdf",
