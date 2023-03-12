@@ -33,9 +33,11 @@
             "id": "0d06e35b164d2212",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/lesson 06 - Adversarial Search.pdf"
+                "file": "AI Game.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/lesson 06 - Adversarial Search.pdf",
+                "file": "AI Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/lesson 06 - Adversarial Search.pdf",
+                "file": "AI Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/lesson 06 - Adversarial Search.pdf"
+                "file": "AI Game.md"
               }
             }
           },
@@ -179,6 +181,7 @@
   },
   "active": "0d06e35b164d2212",
   "lastOpenFiles": [
+    "pdf/lesson 06 - Adversarial Search.pdf",
     "pdf/lesson 05 - Constraint Satisfaction.pdf",
     "pdf/lesson 03-04 - Informed search.pdf",
     "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf",
@@ -189,7 +192,6 @@
     "pdf/lesson 02 - Solving problems by searching.pdf",
     "pdf/lesson 07 - Logical Agents and Propositional Logic.pdf",
     "pdf/lesson 08 - First Order Logic.pdf",
-    "pdf/lesson 06 - Adversarial Search.pdf",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",

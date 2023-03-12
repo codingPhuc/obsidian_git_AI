@@ -6,6 +6,8 @@ the environement is  unpredictable in game
 - zero sum game ( perfect)
 	- deterministisc , fully observable environment , turn-taking , two player 
 	- the utility values at the end are always equal and opposite 
+- ninimax game : 
+# programming 
 - Complexity : game are to hard to be solved 
 - Time limits : make some decision even when calculating the optimal decision is infeasible 
 - Efficiency : penalize inefficiency severely
@@ -15,7 +17,8 @@ Action(s) : successor function : A list of ( move , state) pair specifying legal
 result (s,a) - Transition model : result of move a on state s 
 Terminal -Test( s)  : is the game finished ? 
    - states where the gmae has ended are called terminal states 
-Utility(s, p) - Utility funciont : a numbercal vlaue of 
+Utility(s, p) - Utility funciont : a numbercal vlaue of
+
 ## optimal decision in games 
 - Normal search problem 
 	- optimal solution is a sequnece of action leading to a goal state 
