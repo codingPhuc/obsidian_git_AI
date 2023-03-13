@@ -1,7 +1,15 @@
 Minimax decision
 ```mermaid  
 flowchart TD
-	s['start']-->d['stop']
+	 A['8,8']--> B['8,8']
+	 A --> C['4,4']
+	 B-->D['8,8']
+	 B-->E['8,8']
+	 B-->F['9,9']
+	 C-->G['9,9']
+	 C-->H['4,4']
+	 C--BREAK-->['NO']
+
 	
 ```
 
