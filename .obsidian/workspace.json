@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f7e700118ed5aae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd8dd9f6153f9be8",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24b5e52832db50ed",
+  "active": "6ed57267196817fe",
   "lastOpenFiles": [
-    "undone/SIMULATED Annealing search.md",
     "undone/what is it.md",
+    "Untitled.md",
+    "undone/SIMULATED Annealing search.md",
     "pdf/lesson 03-04 - Informed search.pdf",
     "AI Game.md",
     "pdf/lesson 06 - Adversarial Search.pdf",
