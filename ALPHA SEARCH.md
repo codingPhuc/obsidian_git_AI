@@ -8,9 +8,8 @@ flowchart TD
 	 B-->F['9,9']
 	 C-->G['9,9']
 	 C-->H['4,4']
-	 C--BREAK-->['NO']
-
-	
+	 C--BREAK-->I['NO']
+	 
 ```
 
 this is all the thing i have i want you to understand that i  can be like you i can be love to 
