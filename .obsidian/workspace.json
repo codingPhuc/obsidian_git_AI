@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "undone/2023-02-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d59bcef4962a9e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undone/what is it.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undone/what is it.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undone/what is it.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -181,11 +193,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ed57267196817fe",
+  "active": "d59bcef4962a9e8d",
   "lastOpenFiles": [
+    "undone/2023-02-20.md",
+    "Untitled 1.md",
+    "undone/admissible neuristics.md",
+    "undone/and or sreach tree.md",
+    "undone/ASS SREACH.md",
+    "undone/DFS.md",
+    "undone/GBFS.md",
+    "undone/genetic algorithms.md",
+    "undone/INFORMED SEARCH(CONT).md",
+    "undone/relaxed problems.md",
     "undone/what is it.md",
-    "Untitled.md",
     "undone/SIMULATED Annealing search.md",
+    "undone/ROAD MAP.md",
+    "Untitled.md",
     "pdf/lesson 03-04 - Informed search.pdf",
     "AI Game.md",
     "pdf/lesson 06 - Adversarial Search.pdf",
@@ -200,7 +223,6 @@
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",
-    "undone/GBFS.md",
     "LAB 3 _LECTURE 5_6/backtracking.md",
     "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
     "2023-02-20.md"
