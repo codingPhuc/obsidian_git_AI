@@ -20,3 +20,5 @@ hill climbign algorithm is a variation of gerate and test algorithm which genera
 ### greedy approach 
 hill  climbing algorithm will always move in a direction which will give the best outcome .This is done to optimize the cost 
 ### no backtracking 
+the algorithm  cannot go back to it old path . It does not remember its previous state and cannot backtrack 
+## state and space diagram in the 
