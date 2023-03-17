@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undone/what is it.md",
+                "file": "undone/hill climbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undone/what is it.md",
+                "file": "undone/hill climbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undone/what is it.md",
+                "file": "undone/hill climbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undone/what is it.md"
+                "file": "undone/hill climbing.md"
               }
             }
           },
@@ -182,11 +182,12 @@
   },
   "active": "24b5e52832db50ed",
   "lastOpenFiles": [
-    "undone/2023-02-20.md",
-    "my-image.jpg.md",
-    "undone/hill climbing.md",
-    "picture/cáp.PNG",
     "picture/Capture.PNG",
+    "undone/hill climbing.md",
+    "my-image.jpg.md",
+    "picture/cáp.png",
+    "undone/what is it.md",
+    "undone/2023-02-20.md",
     "picture",
     "New folder",
     "ALPHA SEARCH.md",
@@ -198,7 +199,6 @@
     "undone/genetic algorithms.md",
     "undone/INFORMED SEARCH(CONT).md",
     "undone/relaxed problems.md",
-    "undone/what is it.md",
     "undone/SIMULATED Annealing search.md",
     "undone/ROAD MAP.md",
     "Untitled.md",
