@@ -9,7 +9,14 @@ we select a point to start at then move up to get thought the higest point in th
 	flowchart TD 
 	A['select current solutions S'] --> B['evaluate S']
 	B --> S['select new solution X from neighborhood']
-	S['evaluated X']--> D['is S better than X'] --no--> S
+	S-->G['evaluated X']
+	G['evaluated X']--> D['is S better than X'] --no--> S
 	D--yes-->F['select X as current solution']-->S
 ```
- 
+
+# fetures of hill climbing algorithm 
+###  generate and test alternative 
+hill climbign algorithm is a variation of gerate and test algorithm which generates alternative course of actions to see if they will slove the problem 
+### greedy approach 
+hill  climbing algorithm will always move in a direction which will give the best outcome .This is done to optimize the cost 
+### no backtracking 
