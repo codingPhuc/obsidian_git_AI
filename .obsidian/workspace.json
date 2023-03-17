@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "d59bcef4962a9e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ALPHA SEARCH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd8dd9f6153f9be8",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALPHA SEARCH.md",
+                "file": "undone/what is it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALPHA SEARCH.md",
+                "file": "undone/what is it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALPHA SEARCH.md"
+                "file": "undone/what is it.md"
               }
             }
           },
@@ -193,9 +180,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d59bcef4962a9e8d",
+  "active": "24b5e52832db50ed",
   "lastOpenFiles": [
     "undone/2023-02-20.md",
+    "my-image.jpg.md",
+    "undone/hill climbing.md",
+    "picture/cáp.PNG",
+    "picture/Capture.PNG",
+    "picture",
+    "New folder",
     "ALPHA SEARCH.md",
     "undone/admissible neuristics.md",
     "undone/and or sreach tree.md",
@@ -219,7 +212,6 @@
     "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
     "pdf/lesson 02 - Solving problems by searching.pdf",
     "pdf/lesson 07 - Logical Agents and Propositional Logic.pdf",
-    "pdf/lesson 08 - First Order Logic.pdf",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",
