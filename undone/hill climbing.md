@@ -8,6 +8,8 @@ we select a point to start at then move up to get thought the higest point in th
 ```mermaid 
 	flowchart TD 
 	A['select current solutions S'] --> B['evaluate S']
-	b_
+	B --> S['select new solution X from neighborhood']
+	S['evaluated X']--> D['is S better than X'] --no--> S
+	D--yes-->F['select X as current solution']-->S
 ```
  
