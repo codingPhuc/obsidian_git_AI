@@ -60,6 +60,9 @@ Rule : the caiable belong to the innermost quantifier that mentions it (meaning 
 term1  = term2 is true under a given interpretation iff terms1 and term2 refer to the same object 
 ## the kinship domain : Azioms 
 ## the set domain 
+## the wumpus world : hiddent properties 
+properties of spares 
+## quiz 1 : writing FOL  sentences
 
 
 
