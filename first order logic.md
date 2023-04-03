@@ -44,9 +44,14 @@ types of logics
 
 
 ## Existential quantification 
-expressionds of "some cases" $\exists$ <varible><sentence> 
-it is equivalent to the disjunction of instantiations of P 
+expressionds of "some cases" $\exists$ varible> sentence>
+it is equivalent to the disjunction of instantiations of P
 
+## nested quantifiers 
+multiplbe quantifiers enable more complex sentences 
+Mixture 
+
+$\forall$x (Crown)
 
 
 
