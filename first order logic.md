@@ -63,6 +63,9 @@ term1  = term2 is true under a given interpretation iff terms1 and term2 refer t
 ## the wumpus world : hiddent properties 
 properties of spares 
 ## quiz 1 : writing FOL  sentences
+## universal instantiation 
+- it is possible to infer any sentence obtained by substituing a ground term fo variable 
+- universal 
 
 
 
