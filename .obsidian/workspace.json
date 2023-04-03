@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad514193336d338c",
+        "id": "10388f5d9d19825e",
         "type": "tabs",
         "children": [
           {
-            "id": "24b5e52832db50ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "undone/hill climbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbb5d2eda632b932",
+            "id": "7f243cd1b22ef376",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7e700118ed5aae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "undone/2023-02-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd8dd9f6153f9be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,19 +155,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbb5d2eda632b932",
+  "active": "7f243cd1b22ef376",
   "lastOpenFiles": [
+    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
     "undone/hill climbing.md",
+    "undone/2023-02-20.md",
+    "my-image.jpg.md",
     "first order logic.md",
+    "AI Game.md",
+    "2023-02-20.md",
+    "ALPHA SEARCH.md",
+    "Untitled.md",
+    "pdf/lesson 08 - First Order Logic.pdf",
+    "pdf/lesson 07 - Logical Agents and Propositional Logic.pdf",
+    "pdf/lesson 09 - Inference in First Order Logic.pdf",
+    "pdf/lesson 06 - Adversarial Search.pdf",
+    "pdf/lesson 10 - Knowledge Representation.pdf",
     "picture/all_hill.PNG",
     "picture/Capture.PNG",
-    "my-image.jpg.md",
     "picture/cáp.png",
     "undone/what is it.md",
-    "undone/2023-02-20.md",
     "picture",
     "New folder",
-    "ALPHA SEARCH.md",
     "undone/admissible neuristics.md",
     "undone/and or sreach tree.md",
     "undone/ASS SREACH.md",
@@ -215,22 +187,13 @@
     "undone/relaxed problems.md",
     "undone/SIMULATED Annealing search.md",
     "undone/ROAD MAP.md",
-    "Untitled.md",
     "pdf/lesson 03-04 - Informed search.pdf",
-    "AI Game.md",
-    "pdf/lesson 06 - Adversarial Search.pdf",
     "pdf/lesson 05 - Constraint Satisfaction.pdf",
     "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf",
-    "pdf/lesson 00 - Introduction to AI.pdf",
-    "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
-    "pdf/Artificial Intelligence A Modern Approach (3rd Edition).pdf ( PDFDrive ).pdf",
-    "pdf/lesson 02 - Solving problems by searching.pdf",
-    "pdf/lesson 07 - Logical Agents and Propositional Logic.pdf",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",
     "LAB 3 _LECTURE 5_6/backtracking.md",
-    "LAB 3 _LECTURE 5_6/CSP search  tree size.md",
-    "2023-02-20.md"
+    "LAB 3 _LECTURE 5_6/CSP search  tree size.md"
   ]
 }

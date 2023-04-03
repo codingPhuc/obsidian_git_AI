@@ -40,3 +40,6 @@ expression of general rules
 - a variable is a term all by itself and able to serve as the argument of a function 
 - usually represented by lowercase letters 
 - A term with no vaiables is called a ground term 
+types of logics
+
+this is all the thing i want the most in t
