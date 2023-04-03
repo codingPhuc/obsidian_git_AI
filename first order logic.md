@@ -51,7 +51,13 @@ it is equivalent to the disjunction of instantiations of P
 multiplbe quantifiers enable more complex sentences 
 Mixture 
 
-$\forall$x (Crown)
+$\forall$x (Crown(x))$\lor$ ($\exists$ x Brother(Richard,x))
+Rule : the caiable belong to the innermost quantifier that mentions it (meaning that you take the closet x)
+## QUANTIFIER DUALITY 
+- $\forall$ $\exists$ relate to each other through negation 
+- for example 
+
+
 
 
 
