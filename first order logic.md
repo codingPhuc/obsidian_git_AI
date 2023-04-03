@@ -7,8 +7,9 @@ term -> object
 - constant 
 - function 
 constant sumbols -> objects 
-predice symbols -> 
-
+atomic sentence 
+quantifiers : $\forall$ $\exists$ 
+equality symbols 
 
 x,y John , tdtu 
 student(x)$\land$ student(y) $\land$ Friend(x,y )
@@ -65,9 +66,5 @@ properties of spares
 ## quiz 1 : writing FOL  sentences
 ## universal instantiation 
 - it is possible to infer any sentence obtained by substituing a ground term fo variable 
-- universal 
-
-
-
-
+- universal instantiation       
 
