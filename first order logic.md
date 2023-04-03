@@ -42,4 +42,11 @@ expression of general rules
 - A term with no vaiables is called a ground term 
 types of logics
 
-this is all the thing i want the most in t
+
+## Existential quantification 
+expressionds of "some cases" $\exists$ <varible><sentence> 
+it is equivalent to the disjunction of instantiations of P 
+
+
+
+
