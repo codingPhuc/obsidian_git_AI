@@ -36,3 +36,7 @@ expression of general rules
 	- Student(lan , FIt )-> Smart(Lan)
 	- Student(Tuan , Fit)-> Smart(Long)
 	- .. 
+### varible 
+- a variable is a term all by itself and able to serve as the argument of a function 
+- usually represented by lowercase letters 
+- A term with no vaiables is called a ground term 
