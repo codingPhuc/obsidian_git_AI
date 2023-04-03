@@ -56,6 +56,9 @@ Rule : the caiable belong to the innermost quantifier that mentions it (meaning 
 ## QUANTIFIER DUALITY 
 - $\forall$ $\exists$ relate to each other through negation 
 - for example 
+## Equality symbol = 
+term1  = term2 is true 
+
 
 
 
