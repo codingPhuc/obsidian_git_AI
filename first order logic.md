@@ -59,7 +59,7 @@ Rule : the caiable belong to the innermost quantifier that mentions it (meaning 
 ## Equality symbol = 
 term1  = term2 is true under a given interpretation iff terms1 and term2 refer to the same object 
 ## the kinship domain : Azioms 
-
+## the set domain 
 
 
 
