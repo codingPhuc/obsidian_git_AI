@@ -57,7 +57,8 @@ Rule : the caiable belong to the innermost quantifier that mentions it (meaning 
 - $\forall$ $\exists$ relate to each other through negation 
 - for example 
 ## Equality symbol = 
-term1  = term2 is true 
+term1  = term2 is true under a given interpretation iff terms1 and term2 refer to the same object 
+## the kinship domain : Azioms 
 
 
 
