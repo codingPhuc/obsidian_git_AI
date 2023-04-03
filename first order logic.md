@@ -6,6 +6,8 @@ operator precedence : $\lnot$ , = , $\land$ , $\lor$ , -> , <->
 term -> object 
 - constant 
 - function 
+constant sumbols -> objects 
+predice symbols -> 
 
 
 x,y John , tdtu 
@@ -20,5 +22,11 @@ Predicate -> True | False | After | Loves | Raining |
 Function -> Mother | Leftleg 
 
 ## ATOMIC SENTENCE 
-A
+Atomic sentence = predicate(term , .. term)
+
+## complex sentences 
+A complex sentences are made from atomic sentences using connectives 
+for example : 
+- $\lnot$ Brother(leftleg(Richard), john )
+- Brother(Richard , john)$\land$ 
 
