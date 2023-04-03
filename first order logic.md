@@ -30,3 +30,9 @@ for example :
 - $\lnot$ Brother(leftleg(Richard), john )
 - Brother(Richard , john)$\land$ 
 
+## quantifiers : Universal quantification 
+expression of general rules 
+- it is equivalent to the conjunction of instantiations of P 
+	- Student(lan , FIt )-> Smart(Lan)
+	- Student(Tuan , Fit)-> Smart(Long)
+	- .. 
