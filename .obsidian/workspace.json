@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "450ec9c7a602a6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89c35227e872a5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 percent assignment/presentatio n- progress II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "first order logic.md",
+                "file": "20 percent assignment/presentatio n- progress II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "first order logic.md",
+                "file": "20 percent assignment/presentatio n- progress II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "first order logic.md"
+                "file": "20 percent assignment/presentatio n- progress II.md"
               }
             }
           },
@@ -155,17 +180,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f243cd1b22ef376",
+  "active": "89c35227e872a5fb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "20 percent assignment/presentatio n- progress II.md",
+    "20 percent assignment",
+    "Untitled 1.md",
+    "first order logic.md",
     "LAB 3 _LECTURE 5_6/CONSTRAINT SATISFACTION PROBLEM(CSP).md",
     "undone/hill climbing.md",
     "undone/2023-02-20.md",
     "my-image.jpg.md",
-    "first order logic.md",
     "AI Game.md",
     "2023-02-20.md",
     "ALPHA SEARCH.md",
-    "Untitled.md",
     "pdf/lesson 08 - First Order Logic.pdf",
     "pdf/lesson 07 - Logical Agents and Propositional Logic.pdf",
     "pdf/lesson 09 - Inference in First Order Logic.pdf",
@@ -189,11 +217,9 @@
     "undone/ROAD MAP.md",
     "pdf/lesson 03-04 - Informed search.pdf",
     "pdf/lesson 05 - Constraint Satisfaction.pdf",
-    "pdf/lesson 01 - Introduction AI and Intelligent Agent.pdf",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
     "LAB 3 _LECTURE 5_6/min -conflict.md",
-    "LAB 3 _LECTURE 5_6/backtracking.md",
-    "LAB 3 _LECTURE 5_6/CSP search  tree size.md"
+    "LAB 3 _LECTURE 5_6/backtracking.md"
   ]
 }
