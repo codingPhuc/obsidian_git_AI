@@ -8,5 +8,10 @@ the decsion tree is a tree that can sort out node that are diffrent form each ot
 - the tree should choose the second spilt because it have the purest data slipt that being all red as apose to the first spilt which is a combination of both green and red 
 ### information gain 
 
-- to know the purity of the data set we will used entropy it is gain of information in a state 
+- to know the purity of the data set we will used entropy it is gain of information in a state $entropy=\sum_{}^{}-pi log(pi)$ 
+![[log.PNG]]
+the highest entopy being one and the lowest being 0
+$-0.33log(0.33)-0.67log(0.67)
+then we will apply the information gain 
+
 
