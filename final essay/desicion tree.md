@@ -11,7 +11,10 @@ the decsion tree is a tree that can sort out node that are diffrent form each ot
 - to know the purity of the data set we will used entropy it is gain of information in a state $entropy=\sum_{}^{}-pi log(pi)$ 
 ![[log.PNG]]
 the highest entopy being one and the lowest being 0
-$-0.33log(0.33)-0.67log(0.67)
+$-0.5log(0.5)-0.5log(0.5) =1$ 
+with the 0.5 being the percentage that the red and green dot take up in the decision making 
 then we will apply the information gain 
-
+$IG =  E(parent) - \sum_{}^{}E(child)$ 
+![[INFORMATION GAIN.PNG]]
+WE CAN SEE that IG 2 give the most information gain compare with IG 1 
 
