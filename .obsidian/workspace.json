@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dca6f0157ed487fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "final essay/desicion tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 percent assignment/presentatio n- progress II.md",
+                "file": "final essay/desicion tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 percent assignment/presentatio n- progress II.md",
+                "file": "final essay/desicion tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 percent assignment/presentatio n- progress II.md"
+                "file": "final essay/desicion tree.md"
               }
             }
           },
@@ -180,10 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89c35227e872a5fb",
+  "active": "dca6f0157ed487fe",
   "lastOpenFiles": [
-    "Untitled.md",
     "20 percent assignment/presentatio n- progress II.md",
+    "final essay/desicion tree.md",
+    "final essay",
+    "Untitled.md",
     "20 percent assignment",
     "Untitled 1.md",
     "first order logic.md",
@@ -216,10 +230,8 @@
     "undone/SIMULATED Annealing search.md",
     "undone/ROAD MAP.md",
     "pdf/lesson 03-04 - Informed search.pdf",
-    "pdf/lesson 05 - Constraint Satisfaction.pdf",
     "LAB 3 _LECTURE 5_6/constarint propagation.md",
     "LAB 3 _LECTURE 5_6/Forward checking.md",
-    "LAB 3 _LECTURE 5_6/min -conflict.md",
-    "LAB 3 _LECTURE 5_6/backtracking.md"
+    "LAB 3 _LECTURE 5_6/min -conflict.md"
   ]
 }
