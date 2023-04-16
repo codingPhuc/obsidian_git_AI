@@ -1,4 +1,8 @@
 bases on this video : [Decision Tree Classification Clearly Explained! - YouTube](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
+#sumarize 
+**Decision Trees (DTs)** are a non-parametric supervised learning method used for [classification](https://scikit-learn.org/stable/modules/tree.html#tree-classification) and [regression](https://scikit-learn.org/stable/modules/tree.html#tree-regression). The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.
+too make it more simple to understand decision tree are like a game of 20 question , when some one e
+
 ![[khởi nghiệp.PNG]]
 the decsion tree is a tree that can sort out node that are diffrent form each other
 - the sort in the decision tree should take out all node that are of diffrent color 
