@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fad6a344c37f0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75830d5943e1e43e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "final essay/MNIST DATAST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sumarize",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "final essay/desicion tree.md",
+                "file": "final essay/MNIST DATAST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "final essay/desicion tree.md",
+                "file": "final essay/MNIST DATAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "final essay/desicion tree.md"
+                "file": "final essay/MNIST DATAST.md"
               }
             }
           },
@@ -193,14 +216,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dca6f0157ed487fe",
+  "active": "75830d5943e1e43e",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "final essay/MNIST DATAST.md",
+    "final essay/desicion tree.md",
     "picture/INFORMATION GAIN.PNG",
     "picture/log.PNG",
     "picture/de.PNG",
     "picture/khởi nghiệp.PNG",
     "20 percent assignment/presentatio n- progress II.md",
-    "final essay/desicion tree.md",
     "final essay",
     "Untitled.md",
     "20 percent assignment",
@@ -235,7 +260,6 @@
     "undone/SIMULATED Annealing search.md",
     "undone/ROAD MAP.md",
     "pdf/lesson 03-04 - Informed search.pdf",
-    "LAB 3 _LECTURE 5_6/constarint propagation.md",
-    "LAB 3 _LECTURE 5_6/Forward checking.md"
+    "LAB 3 _LECTURE 5_6/constarint propagation.md"
   ]
 }
