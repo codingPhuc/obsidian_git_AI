@@ -18,5 +18,10 @@ P(x1,y2,z3)= $P(X = x1 \land Y=y2 \land Z =z3)$
 P(a ,-b) = P(A = T $\land$ B=F)
 P(j , m, a ,-b, -e) = P( j|a ) P(m|a) P(a|-b $\land$ -e) P(-b )P(-e)
 
-P(R|G) = P(R = T | G = T ) =  $P(R,G) /P(G )=
-\$  
+P(R|G) = P(R = T | G = T ) =  $P(R,G) /P(G )=\sum_{S} P(R,S,G)/P(R,SG)+P(~R,~S,G)+P(R,~S,G)+P(~R,S,G)$
+DỂ TRA CỨU XÁC SUẤT TRONG BN PHẢI MỞ RỘNG ASSGINMENT SAO CHO CÁC BIẾN CỦA ASSIGNMENT ĐỒNG THỜI XUẤT HIỆN TRONG MỘT CBT 
+
+
+
+
+
