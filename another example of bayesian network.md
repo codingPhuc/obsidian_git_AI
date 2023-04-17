@@ -24,6 +24,10 @@ DỂ TRA CỨU XÁC SUẤT TRONG BN PHẢI MỞ RỘNG ASSGINMENT SAO CHO CÁC B
 $P(G|R) = P(GR)/P(R)= \sum_{s}P(G,S,R)/P(G)= P(G,S,R)+P(G,~S,R)/P(R)$
 
 ### NOTATION 
+- X denote the query bariable 
+- e denotes the set of evidence variables E1,...,En and e is a  particular observed even
+sự kiện mà ta quan sát được P(R|G) đậy e là cỏ ước 
+- hidden những biến không xua
 
 
 
