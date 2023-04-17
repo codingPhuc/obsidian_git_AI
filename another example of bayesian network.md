@@ -6,4 +6,8 @@ this
 
 
 ### inference 
-là quá trình tìm ra tri thức mới 
+
+
+
+p(x1,x2, .. , xn) =TCP(xi|parent(xi)
+$\prod
