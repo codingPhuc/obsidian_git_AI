@@ -33,6 +33,7 @@ sự kiện mà ta quan sát được P(R|G) đậy e là cỏ ước
 Inference by emulation 
 P(X|e)= $\alpha \sum_{y} P(X,e,y)$
 $\alpha$ is the denominator 
+P(B|j,m) = $\alpha P(B,j,m) = \sum_{e}\alpha P(B,j,m,e) = \alpha \sum_{e} P(B,j,m,e) = \alpha \sum_{e} \sum_{a} P(B,j,m,e,a)$  
 
 
 
