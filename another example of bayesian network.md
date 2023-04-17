@@ -18,4 +18,5 @@ P(x1,y2,z3)= $P(X = x1 \land Y=y2 \land Z =z3)$
 P(a ,-b) = P(A = T $\land$ B=F)
 P(j , m, a ,-b, -e) = P( j|a ) P(m|a) P(a|-b $\land$ -e) P(-b )P(-e)
 
-P(R|G) = P(R = T | G = T ) =  $P(R,G) \P(G)$  
+P(R|G) = P(R = T | G = T ) =  $P(R,G) /P(G )=
+\$  
