@@ -27,7 +27,13 @@ $P(G|R) = P(GR)/P(R)= \sum_{s}P(G,S,R)/P(G)= P(G,S,R)+P(G,~S,R)/P(R)$
 - X denote the query bariable 
 - e denotes the set of evidence variables E1,...,En and e is a  particular observed even
 sự kiện mà ta quan sát được P(R|G) đậy e là cỏ ước 
-- hidden những biến không xua
+- hidden những biến không xuất hiện tron công thức 
+- A typical query asks for the posterior probability $P(X|e)$ 
+
+Inference by emulation 
+P(X|e)= $\alpha \sum_{y} P(X,e,y)$
+$\alpha$ is the denominator 
+
 
 
 
