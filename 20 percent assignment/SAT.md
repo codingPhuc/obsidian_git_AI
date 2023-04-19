@@ -1,3 +1,5 @@
+#sumarize  
+sat or as it is call the boolean satisfiability .The main goal of sat is to detemind if there is a way to set the variable in the formula to so that the formula will be given true . 
 # propositional varible 
  represent to value 
  - true 
