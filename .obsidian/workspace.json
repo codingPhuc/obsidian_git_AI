@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0eb15bfcd7269fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 percent assignment/sat value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 percent assignment/SAT.md",
+                "file": "20 percent assignment/sat value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 percent assignment/SAT.md",
+                "file": "20 percent assignment/sat value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 percent assignment/SAT.md"
+                "file": "20 percent assignment/sat value.md"
               }
             }
           },
@@ -252,11 +264,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7191e81cbf536dd6",
+  "active": "0eb15bfcd7269fcb",
   "lastOpenFiles": [
+    "20 percent assignment/SAT.md",
+    "20 percent assignment/sat value.md",
     "picture/truth.PNG",
     "Untitled 3.md",
-    "20 percent assignment/SAT.md",
     "another example of bayesian network.md",
     "first order logic.md",
     "undone/genetic algorithms.md",
