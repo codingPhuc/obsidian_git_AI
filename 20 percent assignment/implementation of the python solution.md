@@ -14,4 +14,4 @@ A B C
 D E F 
 G H I 
 
-(A ^  -B ^ -E ^ -D) V(-A ^  B ^ -E ^ -D ) ^(-A ^  -B ^ E ^ -D ) ^(-A ^  -B ^ -E ^ D)
+(A ^  -B ^ -E ^ -D) V(-A ^  B ^ -E ^ -D ) V(-A ^  -B ^ E ^ -D ) V(-A ^  -B ^ -E ^ D) 
