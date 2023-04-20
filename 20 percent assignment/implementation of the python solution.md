@@ -6,9 +6,12 @@ function :
 	- return all the posible cause for for the number 
 
 
+1 - - 
+.  .  .
+.  .   .
 
 A B C 
 D E F 
 G H I 
 
-(-C^C)V(Fv-F)
+(A ^  -B ^ -E ^ -D) V(-A ^  B ^ -E ^ -D ) ^(-A ^  -B ^ E ^ -D ) ^(-A ^  -B ^ -E ^ D)
