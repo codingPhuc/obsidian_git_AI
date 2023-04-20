@@ -11,4 +11,4 @@ A B C
 D E F 
 G H I 
 
-(-C^C)orF
+(-C^C)V(Fv-F)
