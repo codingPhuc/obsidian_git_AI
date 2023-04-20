@@ -11,4 +11,4 @@ A B C
 D E F 
 G H I 
 
--A and -B and -D and -E and(C or -C or F or -F )
+-A and -B and -D and -E and((C or -F)or (F or -C ))
