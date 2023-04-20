@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75679879a1fe802d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 percent assignment/implementation of the python solution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 percent assignment/sat value.md",
+                "file": "20 percent assignment/implementation of the python solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 percent assignment/sat value.md",
+                "file": "20 percent assignment/implementation of the python solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 percent assignment/sat value.md"
+                "file": "20 percent assignment/implementation of the python solution.md"
               }
             }
           },
@@ -264,10 +276,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0eb15bfcd7269fcb",
+  "active": "75679879a1fe802d",
   "lastOpenFiles": [
-    "20 percent assignment/SAT.md",
     "20 percent assignment/sat value.md",
+    "20 percent assignment/implementation of the python solution.md",
+    "20 percent assignment/SAT.md",
     "picture/truth.PNG",
     "Untitled 3.md",
     "another example of bayesian network.md",
@@ -308,7 +321,6 @@
     "undone/ASS SREACH.md",
     "undone/DFS.md",
     "undone/GBFS.md",
-    "undone/INFORMED SEARCH(CONT).md",
     "pdf/lesson 03-04 - Informed search.pdf"
   ]
 }
