@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e274024d112d556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entropy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 percent assignment/SAT.md",
+                "file": "entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 percent assignment/SAT.md",
+                "file": "entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 percent assignment/SAT.md"
+                "file": "entropy.md"
               }
             }
           },
@@ -155,11 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f243cd1b22ef376",
+  "active": "6e274024d112d556",
   "lastOpenFiles": [
+    "20 percent assignment/SAT.md",
+    "entropy.md",
     "20 percent assignment/implementation of the python solution.md",
     "20 percent assignment/presentatio n- progress II.md",
-    "20 percent assignment/SAT.md",
     "20 percent assignment/sat value.md",
     "first order logic.md",
     "Untitled.md",
@@ -199,7 +213,6 @@
     "New folder",
     "undone/admissible neuristics.md",
     "undone/and or sreach tree.md",
-    "undone/DFS.md",
     "pdf/lesson 03-04 - Informed search.pdf"
   ]
 }
